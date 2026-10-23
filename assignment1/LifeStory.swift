@@ -20,8 +20,8 @@ let hoursOfCodingPerDay = 3
 let likesCoffee = true
 
 // Bonus: future goals and emoji
-let futureGoals = "become a professional iOS developer"
-let 🎯 = "build my own app and publish it in the App Store"
+let futureGoals = "become full stack developer"
+let 🎯 = "work in big company
 let mood = "😀"
 let favoriteEmoji = "🚀"
 

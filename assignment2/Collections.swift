@@ -2,6 +2,9 @@
 let fruits = ["apple", "banana", "cherry", "orange", "kiwi"]
 print("Third fruit: \(fruits[2])")
 
+let vegetables = ["cucumber", "carrot"]
+print("Second vegetabkeL \(vegetables[1])")
+
 // Easy 2: set creation and manipulation
 var favoriteNumbers: Set = [7, 13, 21, 42]
 favoriteNumbers.insert(99)
@@ -46,3 +49,6 @@ print("Final set: \(result)")
 // Hard 3: nested collection
 let grades = ["Aigerim": [90, 85, 100], "Timur": [70, 88, 76]]
 print("Timur's second grade: \(grades["Timur"]?[1] ?? 0)")
+
+
+
