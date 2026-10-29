@@ -21,7 +21,14 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
     private let tracks: [Track] = [
         Track(title: "8 миля", artist: "madk1d", fileName: "song1", coverName: "cover1"),
         Track(title: "fireman", artist: "Miagy", fileName: "song2", coverName: "cover2"),
-       
+        Track(title: "Minor", artist: "Miagy", fileName: "song3", coverName: "cover3"),
+        Track(title: "Там ревели горы", artist: "Miagy", fileName: "song2", coverName: "cover4"),
+        Track(title: "Kosandra", artist: "Miagy", fileName: "song1", coverName: "cover5"),
+        Track(title: "Папа", artist: "2Hug", fileName: "song2", coverName: "cover6"),
+        Track(title: "Влюблен", artist: "2Hug", fileName: "song1", coverName: "cover7"),
+        Track(title: "Сансара", artist: "Баста", fileName: "song2", coverName: "cover8"),
+        Track(title: "Моя игра", artist: "Баста", fileName: "song1", coverName: "cover9"),
+        Track(title: "Скандал", artist: "T-Fest и Баста", fileName: "song2", coverName: "cover10"),
     ]
 
     private var currentIndex = 0
